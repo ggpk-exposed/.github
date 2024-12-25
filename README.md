@@ -1,4 +1,4 @@
-[GGPK Browser](www.ggpk.exposed) consists of the following components:
+[GGPK Browser](https://www.ggpk.exposed) consists of the following components:
 
 [ggpk-server](https://github.com/ggpk-exposed/ggpk-index-server) - a searchable index of all PoE1 and PoE2 game files. Axum server deployable as a docker image.  
 [unoodler](https://github.com/ggpk-exposed/unoodler) - extracts individual blocks of raw data from bundle files. Cloudflare worker written in rust.  
